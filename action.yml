@@ -1,5 +1,5 @@
-name: Github Action for Serverless Deploy
-description: This Action wraps the Serverless Framework CLI to enable common commands. See their documentation for usage and provider selection.
+name: Github Action for Serverless
+description: This Action wraps the Serverless CLI to enable common commands.
 runs:
   using: 'docker'
   image: 'Dockerfile'
