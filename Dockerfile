@@ -1,6 +1,6 @@
 FROM node:14-slim
 
-LABEL version="1.0.1"
+LABEL version="1.1.0"
 LABEL repository="https://github.com/sweeetland/action-serverless"
 LABEL homepage="https://github.com/sweeetland/action-serverless"
 LABEL maintainer="James Sweetland"
